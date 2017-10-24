@@ -1,0 +1,40 @@
+body {
+	font-family: Arial;
+	font-size: 12px;
+	background: #f1f1f1;
+	line-height: 1.3em;
+	padding: 20px 35px;
+
+}
+
+#header	{
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+h1 {
+	font-family: Georgia;
+}
+
+h2 {
+	font-size: 14px;
+
+}
+span {
+	text-decoration: underline;
+}
+
+.work {
+	text-indent: 35px;
+	padding-bottom: 20px;
+}
+
+.chapter {
+	font-size: 16px;
+}
+
+ul {
+	margin-left: 45px;
+}
+
+
